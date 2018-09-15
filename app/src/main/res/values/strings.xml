@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mia casa</string>
+    <string name="mia">Mia</string>
+    <string name="casa">Casa</string>
+    <string name="correo_electronico">Correo electronico</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="sign_in">Entrar</string>
+    <string name="sign_up">Registrarse</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
